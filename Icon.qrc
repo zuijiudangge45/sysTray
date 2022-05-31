@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/chips.png</file>
+        <file>Icon/exit.png</file>
+        <file>Icon/message.png</file>
+    </qresource>
+</RCC>
